@@ -1,4 +1,3 @@
-``` java
 package mx.edu.uttt.arreglos;
 
 import java.sql.SQLOutput;
@@ -36,4 +35,3 @@ public class DeclaringArrays {
         double arr7 [] = {25.3, 15.6, 7.9, 12.5};
     }
 }
-``` 
